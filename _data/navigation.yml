@@ -1,6 +1,9 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Github
+  url: https://github.com/carlos-hernandez1993
+- title: About
+  url: /about/
+- title: Portfolio
+  url: /portfolio/
+  
